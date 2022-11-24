@@ -1,0 +1,102 @@
+
+PROBLEM STATEMENT
+
+1. Adblock dapat memblokir semua iklan yang ada di website GYF
+
+Implikasinya:
+1. Jika semua iklan di website GYF diblokir, maka GYF company tidak dapat membuat track mengenai end-user, hal ini akan
+   menyebabkan adanya kesulitan untuk company menganalisis sifat dari customer
+2. Jika tidak ada track end-user, maka untuk membuat keputusan langkah yang diambil oleh company kedepannya berdasarkan customer
+   sangat menyulitkan company dikarenakan company tidak memiliki track end-user untuk mengetahui sifat dari customer dan trend
+   demand dari setiap product.
+3. Hal ini tentu saja dapat menggangu jalannya operation dari company untuk melakukan forecasting agar mendapatkan solusi yang tepat
+   dari setiap product, dimana forecasting ini sangat diperlukan oleh company untuk mengurangi risk atau kerugian yang akan diterima
+   oleh company.
+4. 
+
+STRATEGY
+
+1. Meminta untuk mematikan ad-block ketika mengunjungi website GYF
+2. Jika end-user tidak mau mematikan ad-blocknya, maka untuk mengetrack end-user, dapat menggunakan cara dari kepuasan pelanggan 
+   melalui rating, dan untuk mempromosikan product dari GYF dapat menggunakan cara mengirimkan email 
+
+“We’re committed to hosting safe ads and respecting your privacy. To keep reading, please disable your ad blocker.” 
+
+
+“Advertising of the future [should] be a ‘gift,’ ‘delightful and informative,’ ‘useful,’ ‘meaningful,’ and ‘an invisible, 
+inspirational, and indispensable part of product and service experiences’.”
+
+
+This brings us to the second flaw in the old mental model of advertising: the assumption that ads are unwanted, disrespectful, 
+irrelevant, and something to be suffered through.
+
+show that advertising could and should be R.A.V.E.S. — relevant and respectful, actionable, valuable and value-generating, 
+with an exceptional experience and a share-worthy story.
+
+“To earn the attention of increasingly savvy and selective individuals — listen to what they are telling you, and give them 
+something of value.”
+
+My reaction after reading this article is what I generally know about the execution of a strategy to solve problems that exist in an 
+organization or company. A company can effectively execute the strategy that has been made by considering all aspects, but in my 
+opinion the most important thing is the aspect of company behavior, where in the company there are a lot of behavior and work 
+characteristics of every element in the company that makes a company or organization has developed like now. For this reason, 
+discussion and joint decision making are urgently needed in order to produce a strategic solution that can be implemented effectively 
+in the future.
+
+Carrie:
+1. OK
+2. OK
+3. NO
+4. NO
+5. OK
+6.
+7. OK
+8. OK
+
+Peggy:
+1. NO
+2. NO 
+3. OKMarketing typically requires more creative activity – copywriting, photography, analyzing and predicting human behavior, making TV commercials and the like – than other corporate departments.
+4. OK
+5. OK
+6.
+7. NO
+8. NO
+
+Similar disparities exist for non-financial measures related to employee performance, operational results, quality, alliances, 
+supplier relations, innovation, community and the environment. More important, stock market and long-term accounting performance are 
+both higher when these measurement gaps are smaller.
+
+gy, value drivers, organizational objectives and the competitive environment. In addition, companies should remember that performance 
+measurement choice is a dynamic process – measures may be appropriate today, but the system needs to be continually reassessed as 
+strategies and competitive environments evolve.
+
+Marketing typically requires more creative activity – copywriting, photography, analyzing and predicting human behavior, making TV 
+commercials and the like – than other corporate departments.
+
+he learned that it was important for companies to identify and articulate the key audiences (primary and secondary) they were targeting.
+
+
+Many customers wanted advice on the items they saw on the site, however, particularly the first few times they called. That 
+interaction was key to building a strong relationship between the site and its customers. It also provided valuable insights as to 
+what shoppers wanted.
+
+To boost the productivity of its sales people by introducing a system of bonuses for those who met monthly targets. Sales went up, 
+bonuses were paid and everyone was happy — until the managers realized that returns were also soaring. 
+
+While some workers undoubtedly do waste too much time checking out Facebook at work, the lesson is clear: Teaching the low-productivity 
+workers to better manage their time, while ensuring they have engaging work suited to their skills, will more effectively enhance 
+productivity, says Ellwood.
+
+“As a manager, you have to align the incentives for your high-productivity people — give them a bonus, or more responsibilities, 
+so they have an incentive to stay,” notes Ellwood.
+
+
+I see this project as a project that actually happens in the world of work. This made me understand how important it is to make 
+decisions carefully in order to produce the best solutions and produce decisions that can benefit all elements in the world of work. 
+My tips to be able to complete this project, assume that all cases that exist you have to take seriously and pay attention from all 
+aspects, it is quite difficult and takes a lot of time, but believe me by doing that, it will make it easier to complete this project.
+
+I will plan to apply the knowledge I have gained from the business analytics course in my daily life by following all the workflows 
+of all the steps described in this course. And I don't forget to apply it to all aspects, from customer analysis to accounting 
+analytics.
